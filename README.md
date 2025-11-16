@@ -93,5 +93,3 @@ Serial.println(" cm");
 The simulation successfully measured the distance between the ultrasonic sensor HC-SR04 and the object. The real-time distance values were accurately displayed on the serial monitor in centimeters.
 
 
-Result:
-The simulation successfully measured the distance between the ultrasonic sensor  HC-SR04 and the object. The real-time distance values were accurately displayed on the serial monitor in centimeters.
